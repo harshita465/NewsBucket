@@ -4,5 +4,6 @@ Description:
  <ul>
  <li> Used news api to fetch the data using xhr object</li>
  <li> Different categories of real - time news articles provided</li>
+  <li>Responsive across all devices </li>
  <li> Tech stack used: JavaScript, HTML5, CSS3 and Bootstrap</li>
  </ul>
