@@ -1,5 +1,4 @@
-// my api key= 159494e427d844468b3a2832ff4b2a9e
-https://newsapi.org/v2/top-headlines?category=business&apiKey=159494e427d844468b3a2832ff4b2a9e
+
 console.log("I am in");
 
 
@@ -263,4 +262,3 @@ let category5=document.getElementById('cat5').addEventListener('click',function(
 
 
 
-// https://newsapi.org/v2/everything?q=bitcoin&apiKey=159494e427d844468b3a2832ff4b2a9e
