@@ -9,7 +9,7 @@ let cat3='sports';
 let cat4='technology';
 let cat5='health';
 let q='bitcoin';
-let apikey='159494e427d844468b3a2832ff4b2a9e';
+let apikey='';
 
 //  category 1 - business - START-
 let category1=document.getElementById('cat1').addEventListener('click',function(){
